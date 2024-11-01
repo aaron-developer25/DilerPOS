@@ -1,4 +1,4 @@
-package com.aarondeveloper.dilerpos.data.local.repository
+package com.aarondeveloper.dilerpos.data.repository
 
 import com.aarondeveloper.dilerpos.data.local.dao.VentaDao
 import com.aarondeveloper.dilerpos.data.local.entities.ventaEntity
